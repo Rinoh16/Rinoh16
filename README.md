@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Rinoh</h1>
+<h1 align="center">Hi, I'm Rinoh</h1>
 
 <p align="center">
   L2 Computer Science Student<br>
@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://Rinoh16.github.io">Portfolio</a> |
-  <a href="https://github.com/Rinoh16">GitHub</a>
+  <a href="https://github.com/Rinoh16">GitHub</a> |
+  <a href="https://www.linkedin.com/in/rajaotiana-rinoh-350b44287">LinkedIn</a>
 </p>
 
 ---
@@ -51,39 +52,27 @@ I develop academic and personal projects focused on web development, data proces
 - Includes data visualization and machine learning models
 - Project carried out during an internship at SupMTI (2025)
 
----
-
 ### Medical Appointment Booking Website
 - Web development using HTML, CSS and MySQL
 - User management and database integration
 - Project completed in 2024
 
----
-
 ### Pacman Game (Processing)
 - Development of a video game with gameplay logic
 - Implementation of player and enemy behaviors
 
----
-
 ### Restaurant Management Database
 - Database design and management using MySQL
 - Modeling and structuring of relational data
-
----
 
 ### Java Image Processing Application
 - Java application with graphical user interface
 - Image processing features
 - Integration with H2 database
 
----
-
 ### Alzheimer Data Analysis
 - Machine learning and deep learning approaches
 - Processing of large datasets using Google Colab
-
----
 
 ### Accelerometry Data Analysis
 - Data transformation and visualization
@@ -95,18 +84,5 @@ I develop academic and personal projects focused on web development, data proces
 
 - GitHub: https://github.com/Rinoh16
 - Portfolio: https://Rinoh16.github.io
-
-<!--
-**Rinoh16/Rinoh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/rajaotiana-rinoh-350b44287
+- Email: rajaotianar@gmail.com
