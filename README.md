@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a second-year Computer Science student with a strong interest in programming, artificial intelligence and data analysis.  
+I am a third-year Computer Science student with a strong interest in programming, artificial intelligence and data analysis.  
 I develop academic and personal projects focused on web development, data processing and machine learning.
 
 ---
