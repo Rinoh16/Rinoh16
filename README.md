@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rinoh</h1>
 
 <p align="center">
-  L2 Computer Science Student<br>
+  L3 Computer Science Student<br>
   Passionate about programming, AI and data analysis<br>
   Currently building projects in Python, Web Development and Machine Learning
 </p>
